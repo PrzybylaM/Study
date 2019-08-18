@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="VcsDirectoryMappings">
+    <mapping directory="$PROJECT_DIR$/../BazyNoSQL" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/../Kanapka" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/../SDA/java16poz" vcs="Git" />
+  </component>
+</project>

@@ -6,6 +6,8 @@ import java.util.Random;
 public class operationOnVariables {
     public static void main(String[] args) {
 
+        System.out.println("Hello!");
+
 
         LinkedList m = new LinkedList();
         Random generator = new Random();
